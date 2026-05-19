@@ -1,0 +1,20 @@
+{
+  "IsAzure": "No",
+  "KeyVaultUrl": "https://autokeyvault.vault.azure.net/",
+  "ClientID": "",
+  "TenantID": "",
+  "ClientSecret": "",
+  "CPURL": "compliance-test.holtdoctors.co.uk/login",
+  "CPRegisteURL": "compliance-test.holtdoctors.co.uk/register",
+  "CPLoginURL": "compliance-test.holtdoctors.co.uk/login",
+  "CPHOLTStaffUsername": "test.manager",
+  "CPClientPersonUsername": "test.clientperson",
+  "CPAgencyPersonUsername": "test.agencyuser",
+  "CPHOLTCandidate": "Test.Holtcandidate",
+  "CPHOLTCandidateEmail": "test.holtcandidate@example.com",
+  "RepresentativeName": "Test Manager",
+  "AutomationHOLTCandidate": "Test.Holtcandidate",
+  "AutomationStaffName": "test.manager",
+  "password": "TestPassword@123",
+  "DbConnectionString": "server=127.0.0.1;database=plusautomationframework;uid=automation;password=password;"
+}
